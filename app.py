@@ -126,8 +126,8 @@ CSS = """
 .gradio-container { font-family: 'Inter', 'Segoe UI', sans-serif; max-width: 1200px !important; margin: auto; }
 .app-header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
   padding: 28px; border-radius: 14px; color: #fff; margin-bottom: 18px; }
-.app-header h1 { margin: 0 0 6px 0; font-size: 30px; }
-.app-header p { margin: 0; opacity: .85; }
+.app-header h1 { margin: 0 0 6px 0; font-size: 30px; color: #ffffff !important; }
+.app-header p { margin: 0; color: #e6ecff !important; opacity: .9; }
 .badge { display: inline-block; background: #00b894; color: #fff; border-radius: 999px;
   padding: 3px 12px; font-size: 12px; font-weight: 600; margin-right: 6px; }
 footer { visibility: hidden; }
